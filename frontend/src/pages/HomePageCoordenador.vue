@@ -60,7 +60,7 @@
             class="text-h3 text-weigth-thin column items-center"
             style="color: #000000; padding-top: 2%; padding-bottom: 3%"
           >
-            <text>Coordenador</text>
+            Coordenador
           </h3>
           <div class="row justify-center" style="padding: 2%">
             <q-btn color="secondary" @click="redirect" style="font-size: 200%">
