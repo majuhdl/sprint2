@@ -20,6 +20,16 @@ const routes = [
     name: "Home",
     component: HomePageC,
   },
+  //{
+  //  path: "/aluno",
+  //  name: "HomeAluno",
+  //  component: HomePageA,
+  //},
+  //{
+  //  path: "/prof",
+  //  name: "HomeProf",
+  //  component: HomePageP,
+  //},
   {
     path: '/import',
     name: 'Import',
